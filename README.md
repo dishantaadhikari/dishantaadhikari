@@ -4,7 +4,7 @@
 <img src="https://github.com/dishanta-adhikari/dishanta-adhikari/blob/main/Banner%20design.png?raw=true" alt="Banner">
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpvdDNzaHQ0Z200M252YnJiOGl0OWhucmx1bmZvbzhheXdiM3pvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.webp" alt="Banner">
-- 🌱 I’m currently learning **BCA**
+- 🌱 I’m currently learning Computer Application
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
