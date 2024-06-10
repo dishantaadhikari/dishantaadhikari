@@ -22,7 +22,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a> </p>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBwOGEwYXdkc2N4MnVyOXphbDRrYmJxYnNqdnVjbTBndDQyaWlnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp" alt="Banner">
+
 
 
 <h3 align="left">Connect with me:</h3>
