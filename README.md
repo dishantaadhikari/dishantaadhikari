@@ -3,7 +3,7 @@
 
 <img src="https://github.com/dishanta-adhikari/dishanta-adhikari/blob/main/Banner%20design.png?raw=true" alt="Banner">
 
-<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhvODFybXJwanFpMXp3MDBkbHJ5MmR6eTNsYzhub21zb3pkYmdoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp" alt="Banner">
+<div align="left" style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/WtTnAfZn6aVJfBzlN3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/WtTnAfZn6aVJfBzlN3">via GIPHY</a></p>
 - 🌱 I’m currently learning Computer Application
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"
