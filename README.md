@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dishanta</h1>
 
-<img src="https://github.com/dishantaadhikari/dishantaadhikari/blob/main/Banner%20design.png?raw=true" alt="Banner">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpvdDNzaHQ0Z200M252YnJiOGl0OWhucmx1bmZvbzhheXdiM3pvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.webp" alt="Banner">
 
 
 <h3 align="left">Connect with me:</h3>
