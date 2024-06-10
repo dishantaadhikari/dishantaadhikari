@@ -4,7 +4,7 @@
 <img src="https://github.com/dishanta-adhikari/dishanta-adhikari/blob/main/Banner%20design.png?raw=true" alt="Banner">
 
 <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpvdDNzaHQ0Z200M252YnJiOGl0OWhucmx1bmZvbzhheXdiM3pvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.webp" alt="Banner">
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3p5bjFnYm11Y2kzMnkxb3NtMmw1bHY0anNwN2hxY3l6azEwYmdzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2NgSeIOe9lIwiojkA/giphy.webp" alt="Banner">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBwOGEwYXdkc2N4MnVyOXphbDRrYmJxYnNqdnVjbTBndDQyaWlnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp" alt="Banner">
 
 
 <h3 align="left">Connect with me:</h3>
