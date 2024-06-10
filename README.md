@@ -3,7 +3,6 @@
 
 <img src="https://github.com/dishantaadhikari/dishantaadhikari/blob/main/Banner%20design.png?raw=true" alt="Banner">
 
-- 🌱 I’m currently learning **BCA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
