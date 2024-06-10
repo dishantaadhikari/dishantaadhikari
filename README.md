@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dishanta</h1>
 <h3 align="center">A Web developer from India</h3>
 
-<img src="https://github.com/dishantaadhikari/dishantaadhikari/blob/main/Dishanta%20Adhikari%20(21).png?raw=true" alt="logo">
+<img src="https://github.com/dishantaadhikari/dishantaadhikari/blob/main/Banner%20design.png?raw=true" alt="Banner">
 
 - 🌱 I’m currently learning **BCA**
 
