@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dishanta</h1>
 <h3 align="center">A Web developer from India</h3>
 
+<img align="right" width="400" src="https://github.com/dishanta-adhikari/dishanta-adhikari/blob/main/Banner%20design.png?raw=true" alt="gif">
 
 <img align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN1OWs4MDQ0YWkzY2l1dXd6ajcwZHRpcmIycXEyNHAxNG5scG5wZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp" alt="gif">
 - 🌱 I’m currently learning Computer Application
